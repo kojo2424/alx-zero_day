@@ -1,1 +1,1 @@
-My first readme
+My first readme was quite easily created.
